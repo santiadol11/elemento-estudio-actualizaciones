@@ -1,0 +1,9 @@
+{
+  "version": "1.46",
+  "file": "versiones/1.46/ELEMENTO_Estudio.html.gz",
+  "sha256": "9f238509c4ff55708abc864708bd1ed41946e8fd3770f5542490ca5c0fd2ed8d",
+  "size": 8497515,
+  "minShell": 1,
+  "date": "2026-11-22",
+  "notes": "1.46 — Boton «Actualizar» (sin crear el .exe cada vez)\n- INICIO: boton «Actualizar». Busca versiones nuevas en GitHub, las instala y el programa se recarga. Tus proyectos y ajustes no se tocan. Tambien avisa solo al abrir si hay una version nueva, y deja volver a la version anterior.\n- Este .exe se crea una sola vez: las proximas versiones llegan con el boton. Solo hara falta un .exe nuevo si cambia la parte de Windows (exportar con FFmpeg, guardar archivos, transcripcion); el programa avisa.\n- Las tipografias pagas y los logos internos viajan solo dentro del .exe (no se publican)."
+}
