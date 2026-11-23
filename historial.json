@@ -25,5 +25,14 @@
     "minShell": 1,
     "date": "2026-11-23",
     "notes": "1.48 — Video Studio: viñetas completas\n- Receta nueva «Viñetas de noticiero»: fondo, video del tema mezclado en luz suave con mascara difuminada, texto infinito con el titulo, titulo en caja y cortinas de entrada y salida con transparencia y tu logo al tapar. Varias a la vez: una por titulo, cada una con su propio video (o un fondo de la galeria, como el mapa de Paraguay).\n- Mascara y modo de fusion en cualquier clip (video, fondo, viñeta, texto): elipse, rectangulo o degradado, con difuminado, posicion, tamaño, rotacion e invertir; luz suave, superponer, pantalla, multiplicar y mas.\n- Texto infinito y logo infinito (pestaña Textos). Logo del proyecto en Identidad.\n- Formato personalizado (por ejemplo 4032x672) y duracion total del proyecto: todo se adapta solo.\n- Lote: cada fila puede usar otro video («Cambia en cada variacion» en el clip, o «Una fila por video»)."
+  },
+  {
+    "version": "1.49",
+    "file": "versiones/1.49/ELEMENTO_Estudio.html.gz",
+    "sha256": "5e41b3671a37a4b9a7be052f52d52b00b82db99a2f34addde12e32b11e693c08",
+    "size": 8559554,
+    "minShell": 1,
+    "date": "2026-11-23",
+    "notes": "1.49 — Crear tu propio fondo degradado\n- VIDEO STUDIO · Fondos › «Crear tu fondo»: degradados en movimiento con loop perfecto, en seis estilos: lineal que gira (como los fondos de noticiero), lineal que se desliza, radial que respira, malla de luces, conico y ondas. En sus opciones: hasta 5 colores, tipo de movimiento, velocidad, sentido, angulo, amplitud, centro, suavidad, luz suave y tramado (evita el escalonado). Boton «Degradado con los colores de la identidad».\n- El generador «Degradado» tambien esta en Background, y lo que guardes en Mis fondos aparece en Pantallas, Meteoro y Cotizaciones.\n- Arreglado: la primera miniatura de las galerias (y de la grilla del lote) a veces salia en negro."
   }
 ]
