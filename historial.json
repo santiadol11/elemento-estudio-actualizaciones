@@ -34,5 +34,14 @@
     "minShell": 1,
     "date": "2026-11-23",
     "notes": "1.49 — Crear tu propio fondo degradado\n- VIDEO STUDIO · Fondos › «Crear tu fondo»: degradados en movimiento con loop perfecto, en seis estilos: lineal que gira (como los fondos de noticiero), lineal que se desliza, radial que respira, malla de luces, conico y ondas. En sus opciones: hasta 5 colores, tipo de movimiento, velocidad, sentido, angulo, amplitud, centro, suavidad, luz suave y tramado (evita el escalonado). Boton «Degradado con los colores de la identidad».\n- El generador «Degradado» tambien esta en Background, y lo que guardes en Mis fondos aparece en Pantallas, Meteoro y Cotizaciones.\n- Arreglado: la primera miniatura de las galerias (y de la grilla del lote) a veces salia en negro."
+  },
+  {
+    "version": "1.50",
+    "file": "versiones/1.50/ELEMENTO_Estudio.html.gz",
+    "sha256": "1884c7bfd794acba12344a62f239936feecbbb20951c987dfc942d590be7a6ae",
+    "size": 8563596,
+    "minShell": 1,
+    "date": "2026-11-23",
+    "notes": "1.50 — Video Studio: linea de tiempo nueva, repetir y empalme\n- Repetir (L): al llegar al final vuelve al principio. «Ver empalme»: reproduce el final y sigue con el comienzo.\n- Empalme (Proyecto › Formato, duracion y loop): los ultimos segundos se funden con el principio, imagen y sonido, para un loop perfecto. En la linea de tiempo se ve el tramo del empalme.\n- Linea de tiempo al estilo CapCut/Premiere: ya no se seleccionan los textos al arrastrar; recuadro para elegir varios clips; cabezal con manija; linea amarilla cuando el iman pega; se desplaza sola al arrastrar cerca del borde; zoom hacia el mouse (Ctrl o Alt + rueda); pistas con altura a eleccion (arrastrando su borde, o S/M/L), ordenables arrastrando el nombre y bloqueables (candado); menu con el boton derecho; Q y W recortan hasta el cabezal; Mayus+Supr borra y cierra el hueco."
   }
 ]
