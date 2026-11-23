@@ -1,9 +1,9 @@
 {
-  "version": "1.47",
-  "file": "versiones/1.47/ELEMENTO_Estudio.html.gz",
-  "sha256": "66c5cebacc21711bd864ffe56ec0dcfe72008f33846b4677f6e7005cf8efb09b",
-  "size": 8549110,
+  "version": "1.48",
+  "file": "versiones/1.48/ELEMENTO_Estudio.html.gz",
+  "sha256": "75c6312f242ae7d12fdcb1ddb463041d5e22c98ba5c20f875501fc72879c03e2",
+  "size": 8556650,
   "minShell": 1,
-  "date": "2026-11-22",
-  "notes": "1.47 — ELEMENTO Video Studio (experimental)\n- INICIO: nueva app «Video Studio», un editor de video automatico que junta lo mejor de Apoyos, Background y Viñetas en una sola linea de tiempo: videos y fotos con movimiento hacia las caras, fondos en loop perfecto, cortinas y titulos de Viñetas, textos, musica y subtitulos. Biblioteca a la izquierda, visor al centro, opciones del clip elegido a la derecha.\n- AUTOMATICO (opciones del proyecto): recetas que arman la edicion y despues se retocan: Reel rapido (vertical, encuadre que sigue la cara, zoom al ritmo de la musica, subtitulos automaticos), Fotos con movimiento (al ritmo de la musica), Lote de fondos (muchas variaciones de color, forma y texto) y Lote de titulos (una viñeta con transparencia por cada texto).\n- Transiciones en la union entre dos clips: fundido, a negro, destello, zoom, deslizar, desenfoque o cualquier cortina de Viñetas (Noticieros incluidas). La musica baja sola cuando hablan. Lote: un archivo por fila al exportar.\n- Los fondos que guardes en Video Studio aparecen en Background, Pantallas, Meteoro y Cotizaciones.\n- Exporta MP4, MOV, MOV con transparencia o MXF, con el sonido mezclado. No hace falta un .exe nuevo."
+  "date": "2026-11-23",
+  "notes": "1.48 — Video Studio: viñetas completas\n- Receta nueva «Viñetas de noticiero»: fondo, video del tema mezclado en luz suave con mascara difuminada, texto infinito con el titulo, titulo en caja y cortinas de entrada y salida con transparencia y tu logo al tapar. Varias a la vez: una por titulo, cada una con su propio video (o un fondo de la galeria, como el mapa de Paraguay).\n- Mascara y modo de fusion en cualquier clip (video, fondo, viñeta, texto): elipse, rectangulo o degradado, con difuminado, posicion, tamaño, rotacion e invertir; luz suave, superponer, pantalla, multiplicar y mas.\n- Texto infinito y logo infinito (pestaña Textos). Logo del proyecto en Identidad.\n- Formato personalizado (por ejemplo 4032x672) y duracion total del proyecto: todo se adapta solo.\n- Lote: cada fila puede usar otro video («Cambia en cada variacion» en el clip, o «Una fila por video»)."
 }
