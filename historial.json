@@ -97,5 +97,14 @@
     "minShell": 1,
     "date": "2026-11-23",
     "notes": "1.56 — Cotizaciones Plus 1.4: franja ancha y apertura con video\n- Formato nuevo «6:1 Pantalla» (4032 × 672) y plantilla lista «Franja ancha (azul y rojo)»: titulo a la izquierda con tres puntitos, cuatro monedas en 2 × 2 (bandera con aro, nombre, compra, venta y flecha), circulos decorativos que aparecen con rebote y flotan.\n- Fondo nuevo «Degradado en movimiento» (horizontal, con los dos colores que elijas).\n- Fondo › Apertura (transicion de entrada): elegis un video con fondo de un solo color (azul o verde), por ejemplo billetes que caen. Se quita ese color solo, y la cotizacion aparece justo cuando el video tapa toda la pantalla (se busca solo; tambien se puede mover a mano). Se puede ajustar cuanto color se quita y el encuadre. El video queda guardado en el equipo. Antes del cambio la pantalla queda transparente (MOV con transparencia)."
+  },
+  {
+    "version": "1.57",
+    "file": "versiones/1.57/ELEMENTO_Estudio.html.gz",
+    "sha256": "77cbffa6b57adbacdabd4e9c7117c088142dd7c63bc5fc78c282c0f859bb084d",
+    "size": 8589342,
+    "minShell": 1,
+    "date": "2026-11-23",
+    "notes": "1.57 — Background: «Esferas y puntos» con loop perfecto\n- El degradado de las esferas grandes ahora da vueltas enteras en lo que dura el fondo: el final empalma con el principio (antes saltaba al volver a empezar)."
   }
 ]
