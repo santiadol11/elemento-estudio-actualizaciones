@@ -1,9 +1,9 @@
 {
-  "version": "1.58",
-  "file": "versiones/1.58/ELEMENTO_Estudio.html.gz",
-  "sha256": "f0377a4d476c6a8ef5508415d39a6d81e76134327f8f72bdf693a2fede185baf",
-  "size": 8589659,
+  "version": "1.59",
+  "file": "versiones/1.59/ELEMENTO_Estudio.html.gz",
+  "sha256": "2823bd66014923bcece3dc1dae5b177a30c0a7b288212306fb7bdf7042279369",
+  "size": 8589914,
   "minShell": 1,
   "date": "2026-11-23",
-  "notes": "1.58 — Cotizaciones: flechas de colores que brillan\n- Diseño › Flechas: nuevo «Brillo de las flechas» (halo de color que late suave). Funciona con cualquier tipo de flecha y con cualquier animación.\n- Botón «Verde sube · rojo baja · amarillo igual» para poner esos colores de una vez (y activar el brillo).\n- La plantilla «Franja ancha» ya viene con verde, rojo y amarillo con brillo."
+  "notes": "1.59 — Cotizaciones: apertura sin negro al principio\n- Fondo › Apertura: «El video empieza en» para saltear el principio del video (se ajusta solo al cargarlo o con «Buscar automáticamente»: arranca justo cuando aparecen los billetes).\n- «Antes del cambio»: Transparente (para MOV con transparencia) o Mostrar el fondo (los billetes caen sobre el fondo de la cotización; en MP4 ya no queda negro)."
 }
