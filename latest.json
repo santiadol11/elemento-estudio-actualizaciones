@@ -1,9 +1,9 @@
 {
-  "version": "1.50",
-  "file": "versiones/1.50/ELEMENTO_Estudio.html.gz",
-  "sha256": "1884c7bfd794acba12344a62f239936feecbbb20951c987dfc942d590be7a6ae",
-  "size": 8563596,
+  "version": "1.51",
+  "file": "versiones/1.51/ELEMENTO_Estudio.html.gz",
+  "sha256": "80bd97a1b2e89d9ca477156d44ff260809ad57ddddea0080c6af568a4346be1d",
+  "size": 8564090,
   "minShell": 1,
   "date": "2026-11-23",
-  "notes": "1.50 — Video Studio: linea de tiempo nueva, repetir y empalme\n- Repetir (L): al llegar al final vuelve al principio. «Ver empalme»: reproduce el final y sigue con el comienzo.\n- Empalme (Proyecto › Formato, duracion y loop): los ultimos segundos se funden con el principio, imagen y sonido, para un loop perfecto. En la linea de tiempo se ve el tramo del empalme.\n- Linea de tiempo al estilo CapCut/Premiere: ya no se seleccionan los textos al arrastrar; recuadro para elegir varios clips; cabezal con manija; linea amarilla cuando el iman pega; se desplaza sola al arrastrar cerca del borde; zoom hacia el mouse (Ctrl o Alt + rueda); pistas con altura a eleccion (arrastrando su borde, o S/M/L), ordenables arrastrando el nombre y bloqueables (candado); menu con el boton derecho; Q y W recortan hasta el cabezal; Mayus+Supr borra y cierra el hueco."
+  "notes": "1.51 — Video Studio: empalme en texto infinito y fondos\n- Texto/logo infinito: «Empalme (loop perfecto)» (encendido): avanza un numero entero de repeticiones en lo que dura el clip, asi el final empalma con el principio. Nuevas: separacion vertical, separacion horizontal y desfase entre filas.\n- Fondos: «Empalme: loop perfecto con la duracion del clip» (encendido), como en Background: da vueltas enteras en lo que dura el clip y se ajusta solo si lo alargas o acortas. Apagado: elegis cada cuanto da una vuelta."
 }
