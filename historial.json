@@ -79,5 +79,14 @@
     "minShell": 1,
     "date": "2026-11-23",
     "notes": "1.54 — Video Studio: «Patron animado» (texto infinito mejorado)\n- Nuevo en Texto › Patron animado, con 12 estilos listos: filas alternadas, palabras y logo, una palabra por fila, diagonal, ola, brillo que recorre, sube, a pasos, paralaje, cinta, logos y pulso.\n- Contenido: varias palabras, simbolos (•, ★, /, ◆...), tu logo o cualquier imagen de la biblioteca, en el orden que quieras. Cada fila puede repetir todo, alternar las palabras o llevar una palabra por fila. Acepta {titulo} del lote.\n- Estilo: contorno, relleno, alternado por fila o por palabra; tipografia, mayusculas, cursiva, tamaño, espacio entre letras, grosor del contorno, colores por fila, fila central destacada, desvanecido hacia los bordes, cinta (franja).\n- Movimiento: horizontal, vertical, ambos o quieto; direccion, filas en sentido contrario, paralaje, avance a pasos con pausa, ola, pulso, brillo que recorre y entrada por filas o letra por letra. Siempre en loop perfecto.\n- Se mueve arrastrando en el visor y se agranda con Ctrl + rueda del mouse. Queda alineado al cambiar el tamaño.\n- Background: la ultima letra del texto infinito ya no se corta (ej.: la I de MARTINI)."
+  },
+  {
+    "version": "1.55",
+    "file": "versiones/1.55/ELEMENTO_Estudio.html.gz",
+    "sha256": "3ba465285a110e9c1b5bd1ab7cdb0ccecd41d45dc0501abaab16f52c8ae9ae6f",
+    "size": 8584519,
+    "minShell": 1,
+    "date": "2026-11-23",
+    "notes": "1.55 — Video Studio: guias al mover en el visor\n- Al arrastrar algo en el visor, se acerca solo al centro y aparece una linea guia rosa.\n- Con Ctrl (o Shift) apretado: se mueve en linea perfecta, solo horizontal o solo vertical (segun hacia donde empieces a mover), y se traba en el centro con mas fuerza. Se puede apretar Ctrl en medio del arrastre."
   }
 ]
