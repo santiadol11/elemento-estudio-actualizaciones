@@ -52,5 +52,14 @@
     "minShell": 1,
     "date": "2026-11-23",
     "notes": "1.51 — Video Studio: empalme en texto infinito y fondos\n- Texto/logo infinito: «Empalme (loop perfecto)» (encendido): avanza un numero entero de repeticiones en lo que dura el clip, asi el final empalma con el principio. Nuevas: separacion vertical, separacion horizontal y desfase entre filas.\n- Fondos: «Empalme: loop perfecto con la duracion del clip» (encendido), como en Background: da vueltas enteras en lo que dura el clip y se ajusta solo si lo alargas o acortas. Apagado: elegis cada cuanto da una vuelta."
+  },
+  {
+    "version": "1.52",
+    "file": "versiones/1.52/ELEMENTO_Estudio.html.gz",
+    "sha256": "c3683c79cccbd9d69a2fbd15ad06432cb9e4210ba3bcef1d5ca50a7d07a996ed",
+    "size": 8565068,
+    "minShell": 1,
+    "date": "2026-11-23",
+    "notes": "1.52 — Video Studio: transicion con clic derecho\n- Clic derecho cerca del borde de un clip (o en el rombo de la union): menu para elegir la transicion con el clip de al lado (fundido, a negro, destello, zoom, deslizar, desenfoque o cortinas de Viñetas) y su duracion. Si no hay otro clip pegado de ese lado, elegis como aparece o desaparece (de golpe o con fundido)."
   }
 ]
