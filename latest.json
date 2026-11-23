@@ -1,9 +1,9 @@
 {
-  "version": "1.55",
-  "file": "versiones/1.55/ELEMENTO_Estudio.html.gz",
-  "sha256": "3ba465285a110e9c1b5bd1ab7cdb0ccecd41d45dc0501abaab16f52c8ae9ae6f",
-  "size": 8584519,
+  "version": "1.56",
+  "file": "versiones/1.56/ELEMENTO_Estudio.html.gz",
+  "sha256": "d0cdf301de1387b2ef3c6a3914af7a380b1c59591364f5a041a1d2d5a0025a76",
+  "size": 8589340,
   "minShell": 1,
   "date": "2026-11-23",
-  "notes": "1.55 — Video Studio: guias al mover en el visor\n- Al arrastrar algo en el visor, se acerca solo al centro y aparece una linea guia rosa.\n- Con Ctrl (o Shift) apretado: se mueve en linea perfecta, solo horizontal o solo vertical (segun hacia donde empieces a mover), y se traba en el centro con mas fuerza. Se puede apretar Ctrl en medio del arrastre."
+  "notes": "1.56 — Cotizaciones Plus 1.4: franja ancha y apertura con video\n- Formato nuevo «6:1 Pantalla» (4032 × 672) y plantilla lista «Franja ancha (azul y rojo)»: titulo a la izquierda con tres puntitos, cuatro monedas en 2 × 2 (bandera con aro, nombre, compra, venta y flecha), circulos decorativos que aparecen con rebote y flotan.\n- Fondo nuevo «Degradado en movimiento» (horizontal, con los dos colores que elijas).\n- Fondo › Apertura (transicion de entrada): elegis un video con fondo de un solo color (azul o verde), por ejemplo billetes que caen. Se quita ese color solo, y la cotizacion aparece justo cuando el video tapa toda la pantalla (se busca solo; tambien se puede mover a mano). Se puede ajustar cuanto color se quita y el encuadre. El video queda guardado en el equipo. Antes del cambio la pantalla queda transparente (MOV con transparencia)."
 }
