@@ -1,9 +1,9 @@
 {
-  "version": "1.53",
-  "file": "versiones/1.53/ELEMENTO_Estudio.html.gz",
-  "sha256": "70896fbc5bf1ee7952cde671e6a3ca13427adb891305c0188302643d4a3ac18d",
-  "size": 8576800,
+  "version": "1.54",
+  "file": "versiones/1.54/ELEMENTO_Estudio.html.gz",
+  "sha256": "4df20380ecc8ee7225bbdf54aef2ae2b9aa16e96707b5c7f052a8973e1382a79",
+  "size": 8583907,
   "minShell": 1,
   "date": "2026-11-23",
-  "notes": "1.53 — Video Studio reorganizado: biblioteca por categorias y control de efectos\n- IZQUIERDA (que agregar), barra de categorias como en CapCut: Medios, Audio, Texto, Fondos, Transiciones, Efectos, Filtros y Automatico. Todo se arrastra a la linea de tiempo o encima de un clip (efectos y filtros), o a la union entre dos clips (transiciones). Doble clic: a lo elegido.\n- DERECHA, «control de efectos» del clip elegido en pestañas: Basico (encuadre, posicion, escala, rotacion, opacidad, mascara, modo de fusion, duracion), Animacion (entrada y salida: fundido, zoom, alejar, deslizar, rebote, giro, desenfoque; movimiento y zoom dinamico), Color (14 filtros con intensidad; brillo, contraste, saturacion, temperatura y tono), Efectos (pila como en Premiere: desenfoque, resplandor, viñeteado, grano, aberracion RGB, glitch, temblor, pulso de zoom, espejo, pixelado, duotono, sombra y contorno; se prenden, apagan y ordenan) y Velocidad. Sin nada elegido: Proyecto, Identidad, Subtitulos y Lote.\n- Las recetas (Reel, Lote de fondos, etc.) pasaron a «Automatico» y se abren en una ventana: ya no ocupan el panel."
+  "notes": "1.54 — Video Studio: «Patron animado» (texto infinito mejorado)\n- Nuevo en Texto › Patron animado, con 12 estilos listos: filas alternadas, palabras y logo, una palabra por fila, diagonal, ola, brillo que recorre, sube, a pasos, paralaje, cinta, logos y pulso.\n- Contenido: varias palabras, simbolos (•, ★, /, ◆...), tu logo o cualquier imagen de la biblioteca, en el orden que quieras. Cada fila puede repetir todo, alternar las palabras o llevar una palabra por fila. Acepta {titulo} del lote.\n- Estilo: contorno, relleno, alternado por fila o por palabra; tipografia, mayusculas, cursiva, tamaño, espacio entre letras, grosor del contorno, colores por fila, fila central destacada, desvanecido hacia los bordes, cinta (franja).\n- Movimiento: horizontal, vertical, ambos o quieto; direccion, filas en sentido contrario, paralaje, avance a pasos con pausa, ola, pulso, brillo que recorre y entrada por filas o letra por letra. Siempre en loop perfecto.\n- Se mueve arrastrando en el visor y se agranda con Ctrl + rueda del mouse. Queda alineado al cambiar el tamaño.\n- Background: la ultima letra del texto infinito ya no se corta (ej.: la I de MARTINI)."
 }
