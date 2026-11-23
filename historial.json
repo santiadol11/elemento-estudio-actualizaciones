@@ -106,5 +106,14 @@
     "minShell": 1,
     "date": "2026-11-23",
     "notes": "1.57 — Background: «Esferas y puntos» con loop perfecto\n- El degradado de las esferas grandes ahora da vueltas enteras en lo que dura el fondo: el final empalma con el principio (antes saltaba al volver a empezar)."
+  },
+  {
+    "version": "1.58",
+    "file": "versiones/1.58/ELEMENTO_Estudio.html.gz",
+    "sha256": "f0377a4d476c6a8ef5508415d39a6d81e76134327f8f72bdf693a2fede185baf",
+    "size": 8589659,
+    "minShell": 1,
+    "date": "2026-11-23",
+    "notes": "1.58 — Cotizaciones: flechas de colores que brillan\n- Diseño › Flechas: nuevo «Brillo de las flechas» (halo de color que late suave). Funciona con cualquier tipo de flecha y con cualquier animación.\n- Botón «Verde sube · rojo baja · amarillo igual» para poner esos colores de una vez (y activar el brillo).\n- La plantilla «Franja ancha» ya viene con verde, rojo y amarillo con brillo."
   }
 ]
