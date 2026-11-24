@@ -124,5 +124,14 @@
     "minShell": 1,
     "date": "2026-11-23",
     "notes": "1.59 — Cotizaciones: apertura sin negro al principio\n- Fondo › Apertura: «El video empieza en» para saltear el principio del video (se ajusta solo al cargarlo o con «Buscar automáticamente»: arranca justo cuando aparecen los billetes).\n- «Antes del cambio»: Transparente (para MOV con transparencia) o Mostrar el fondo (los billetes caen sobre el fondo de la cotización; en MP4 ya no queda negro)."
+  },
+  {
+    "version": "1.60",
+    "file": "versiones/1.60/ELEMENTO_Estudio.html.gz",
+    "sha256": "6eea66fb317498803cefcaae07ba295b450a8d38a12892a654229ee880fa2af4",
+    "size": 8591632,
+    "minShell": 1,
+    "date": "2026-11-24",
+    "notes": "1.60 — Meteoro 3.1: pronóstico «Por horas»\n- Nueva plantilla «Por horas» (en «De hoy»): pestaña blanca con la hora («12:00 horas») y tarjeta en degradado con el ícono y la temperatura grande, como el extendido de franjas.\n- Todo se escribe a mano: hora (como quieras: «12:00», «Mediodía»…), temperatura, cielo y una nota opcional chica («40 % lluvia»). Hasta 8 horas; se agregan, se quitan y se ordenan con ↑ ↓.\n- «Texto después de la hora» (de fábrica «horas»; se puede borrar).\n- De noche (19:00 a 05:59) el ícono pasa solo a su versión con luna (se puede apagar)."
   }
 ]
