@@ -1,9 +1,9 @@
 {
-  "version": "1.62",
-  "file": "versiones/1.62/ELEMENTO_Estudio.html.gz",
-  "sha256": "f7c6e63a1152c2185213b5dca9d70bbc4c500471b1787512d718f5b199a19b50",
-  "size": 8594359,
+  "version": "1.63",
+  "file": "versiones/1.63/ELEMENTO_Estudio.html.gz",
+  "sha256": "0f6a99ac41b9bc94b0a033dc1e5c2b00f8cea74e08fd2eb903c2ec0c851081ac",
+  "size": 8594807,
   "minShell": 1,
   "date": "2026-11-25",
-  "notes": "1.62 — «Vidrio acanalado»: un solo fondo con variaciones\n- En vez de 8 fondos parecidos queda uno solo, «Vidrio acanalado» (Background › Galeria y Video Studio › Fondos › Crear tu fondo).\n- Dentro de sus opciones, «Variacion» cambia todo de una vez: verde y naranja, naranja, verde al naranja, con manchas, fino que se desliza, franjas anchas u horizontal. Despues seguis tocando cualquier parametro (pasa a «A mano»)."
+  "notes": "1.63 — «Vidrio acanalado» de fabrica como la placa «Gracias»\n- Viene configurado igual que la referencia: degradado de amarillo a naranja y verde abajo a la derecha, rayas diagonales finas que pasan lento y anillos suaves abajo a la izquierda, 18 franjas con bordes casi invisibles.\n- Movimiento nuevo «Rayas y anillos». La variacion anterior sigue como «Verde y naranja»."
 }
