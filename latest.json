@@ -1,9 +1,9 @@
 {
-  "version": "1.60",
-  "file": "versiones/1.60/ELEMENTO_Estudio.html.gz",
-  "sha256": "6eea66fb317498803cefcaae07ba295b450a8d38a12892a654229ee880fa2af4",
-  "size": 8591632,
+  "version": "1.61",
+  "file": "versiones/1.61/ELEMENTO_Estudio.html.gz",
+  "sha256": "4233e7b38409cef715e9332bff12298d09b27f3956fc11eb11db7a7bb1655fab",
+  "size": 8594116,
   "minShell": 1,
-  "date": "2026-11-24",
-  "notes": "1.60 — Meteoro 3.1: pronóstico «Por horas»\n- Nueva plantilla «Por horas» (en «De hoy»): pestaña blanca con la hora («12:00 horas») y tarjeta en degradado con el ícono y la temperatura grande, como el extendido de franjas.\n- Todo se escribe a mano: hora (como quieras: «12:00», «Mediodía»…), temperatura, cielo y una nota opcional chica («40 % lluvia»). Hasta 8 horas; se agregan, se quitan y se ordenan con ↑ ↓.\n- «Texto después de la hora» (de fábrica «horas»; se puede borrar).\n- De noche (19:00 a 05:59) el ícono pasa solo a su versión con luna (se puede apagar)."
+  "date": "2026-11-25",
+  "notes": "1.61 — Fondo «Vidrio acanalado» (Background y Video Studio)\n- Nuevo fondo: un degradado suave y lento visto a traves de un vidrio de franjas, con brillo en un borde y sombra en el otro. Movimiento infinito con loop perfecto (el final empalma con el principio).\n- 8 estilos listos: verde y naranja, naranja, verde al naranja, con manchas, fino que se desliza, franjas anchas, horizontal y noche (azul y rojo). En Background estan en la Galeria; en Video Studio, en Fondos › Vidrio.\n- Movimientos de atras: ondas diagonales, barrido de luz, respiracion, manchas que pasean y vaiven.\n- Se ajusta todo: colores (hasta 5), velocidad, cantidad de franjas, refraccion, desplazamiento entre franjas, brillo de los bordes, sombra, direccion y tamaño de las ondas, vidrio que se desliza y franjas horizontales."
 }
