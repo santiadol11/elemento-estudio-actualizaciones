@@ -1,9 +1,9 @@
 {
-  "version": "1.61",
-  "file": "versiones/1.61/ELEMENTO_Estudio.html.gz",
-  "sha256": "4233e7b38409cef715e9332bff12298d09b27f3956fc11eb11db7a7bb1655fab",
-  "size": 8594116,
+  "version": "1.62",
+  "file": "versiones/1.62/ELEMENTO_Estudio.html.gz",
+  "sha256": "f7c6e63a1152c2185213b5dca9d70bbc4c500471b1787512d718f5b199a19b50",
+  "size": 8594359,
   "minShell": 1,
   "date": "2026-11-25",
-  "notes": "1.61 — Fondo «Vidrio acanalado» (Background y Video Studio)\n- Nuevo fondo: un degradado suave y lento visto a traves de un vidrio de franjas, con brillo en un borde y sombra en el otro. Movimiento infinito con loop perfecto (el final empalma con el principio).\n- 8 estilos listos: verde y naranja, naranja, verde al naranja, con manchas, fino que se desliza, franjas anchas, horizontal y noche (azul y rojo). En Background estan en la Galeria; en Video Studio, en Fondos › Vidrio.\n- Movimientos de atras: ondas diagonales, barrido de luz, respiracion, manchas que pasean y vaiven.\n- Se ajusta todo: colores (hasta 5), velocidad, cantidad de franjas, refraccion, desplazamiento entre franjas, brillo de los bordes, sombra, direccion y tamaño de las ondas, vidrio que se desliza y franjas horizontales."
+  "notes": "1.62 — «Vidrio acanalado»: un solo fondo con variaciones\n- En vez de 8 fondos parecidos queda uno solo, «Vidrio acanalado» (Background › Galeria y Video Studio › Fondos › Crear tu fondo).\n- Dentro de sus opciones, «Variacion» cambia todo de una vez: verde y naranja, naranja, verde al naranja, con manchas, fino que se desliza, franjas anchas u horizontal. Despues seguis tocando cualquier parametro (pasa a «A mano»)."
 }
