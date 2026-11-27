@@ -1,9 +1,9 @@
 {
-  "version": "1.64",
-  "file": "versiones/1.64/ELEMENTO_Estudio.html.gz",
-  "sha256": "388c5f5e1b7c35347723b9d73183ad064cf10e3d9e88843062acb28a639252e1",
-  "size": 8596916,
+  "version": "1.65",
+  "file": "versiones/1.65/ELEMENTO_Estudio.html.gz",
+  "sha256": "5e78a6b158f3795fff3f7b7dc99bd23340f40a5582321144b9988ac0506bc237",
+  "size": 8601114,
   "minShell": 1,
   "date": "2026-11-27",
-  "notes": "1.64 — Meteoro 3.2: pack de iconos en .mov con transparencia\n- Diseño › Iconos › «Pack de iconos»: descarga un .zip con un video .mov con transparencia por cada cielo (13), con el estilo y color de iconos elegidos. Tamaño 256, 512 o 1024 px y duracion de 3 a 10 s.\n- Funciona tambien desde el navegador (no necesita FFmpeg). Los .mov usan el codec PNG con transparencia, que leen Premiere, After Effects, DaVinci Resolve y vMix."
+  "notes": "1.65 — «Para After (.mov)» en Cotizaciones y Meteoro (tambien en el navegador)\n- Boton nuevo «Para After (.mov)» arriba, al lado de PNG: descarga la animacion completa en .mov con transparencia, sin lo que se cambia a mano, para terminarlo en After Effects. Cotizaciones: sin numeros, sin flechas, sin banderas (cada uno se elige). Meteoro: sin iconos, sin temperaturas, sin dias (quedan las pestañas, tarjetas y ▲▼). Opcion de incluir el fondo y de bajarlo a mitad de tamaño.\n- Cotizaciones: «Pack de flechas» con sube, baja e igual animadas (.mov con transparencia, con tus colores y brillo).\n- Meteoro: desde la misma ventana, el pack de iconos."
 }
