@@ -1,9 +1,9 @@
 {
-  "version": "1.63",
-  "file": "versiones/1.63/ELEMENTO_Estudio.html.gz",
-  "sha256": "0f6a99ac41b9bc94b0a033dc1e5c2b00f8cea74e08fd2eb903c2ec0c851081ac",
-  "size": 8594807,
+  "version": "1.64",
+  "file": "versiones/1.64/ELEMENTO_Estudio.html.gz",
+  "sha256": "388c5f5e1b7c35347723b9d73183ad064cf10e3d9e88843062acb28a639252e1",
+  "size": 8596916,
   "minShell": 1,
-  "date": "2026-11-25",
-  "notes": "1.63 — «Vidrio acanalado» de fabrica como la placa «Gracias»\n- Viene configurado igual que la referencia: degradado de amarillo a naranja y verde abajo a la derecha, rayas diagonales finas que pasan lento y anillos suaves abajo a la izquierda, 18 franjas con bordes casi invisibles.\n- Movimiento nuevo «Rayas y anillos». La variacion anterior sigue como «Verde y naranja»."
+  "date": "2026-11-27",
+  "notes": "1.64 — Meteoro 3.2: pack de iconos en .mov con transparencia\n- Diseño › Iconos › «Pack de iconos»: descarga un .zip con un video .mov con transparencia por cada cielo (13), con el estilo y color de iconos elegidos. Tamaño 256, 512 o 1024 px y duracion de 3 a 10 s.\n- Funciona tambien desde el navegador (no necesita FFmpeg). Los .mov usan el codec PNG con transparencia, que leen Premiere, After Effects, DaVinci Resolve y vMix."
 }
