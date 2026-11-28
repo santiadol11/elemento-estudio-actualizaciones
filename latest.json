@@ -1,9 +1,9 @@
 {
-  "version": "1.65",
-  "file": "versiones/1.65/ELEMENTO_Estudio.html.gz",
-  "sha256": "5e78a6b158f3795fff3f7b7dc99bd23340f40a5582321144b9988ac0506bc237",
-  "size": 8601114,
+  "version": "1.66",
+  "file": "versiones/1.66/ELEMENTO_Estudio.html.gz",
+  "sha256": "2908bf5f118e7404815ebb82a3e8626367ca12861e32cffa493636efd830f690",
+  "size": 8602768,
   "minShell": 1,
-  "date": "2026-11-27",
-  "notes": "1.65 — «Para After (.mov)» en Cotizaciones y Meteoro (tambien en el navegador)\n- Boton nuevo «Para After (.mov)» arriba, al lado de PNG: descarga la animacion completa en .mov con transparencia, sin lo que se cambia a mano, para terminarlo en After Effects. Cotizaciones: sin numeros, sin flechas, sin banderas (cada uno se elige). Meteoro: sin iconos, sin temperaturas, sin dias (quedan las pestañas, tarjetas y ▲▼). Opcion de incluir el fondo y de bajarlo a mitad de tamaño.\n- Cotizaciones: «Pack de flechas» con sube, baja e igual animadas (.mov con transparencia, con tus colores y brillo).\n- Meteoro: desde la misma ventana, el pack de iconos."
+  "date": "2026-11-28",
+  "notes": "1.66 — Viñetas 3.2: «+ Pieza» copia la que estás haciendo\n- «+ Pieza» (o la tecla N) agrega una copia de la pieza elegida —misma transicion, colores y textos— al lado, sin el video, y enseguida te pide el video nuevo (cargar archivo o uno que ya este en el paquete).\n- ▾ al lado de «+ Pieza»: tus predeterminadas («Guardar la actual como predeterminada», quedan para todos los paquetes), y «Pieza en blanco». Ya no aparece la ventana con todas las funciones."
 }
